@@ -4,8 +4,8 @@ main:
     authors: Awais, M., & <strong>Durrani, S.</strong>
     conference_short: ICENSS
     conference: International Conference on Engineering, Natural and Social Sciences, 2023.
-    pdf: [Link]  # replace with actual link to PDF or online version
-    code: null
+    pdf: https://as-proceeding.com/index.php/icensos/article/view/514/464  # replace with actual link to PDF or online version
+    code: https://github.com/durranisara/Sentiment-Emotion-Analysis-NRCLex
     bibtex: null
     image: null
     notes: null
@@ -14,8 +14,7 @@ main:
     authors: Awais, M., & <strong>Durrani, S.</strong>
     conference_short: ICSAR
     conference: International Conference on Scientific and Academic Research, 2023.
-    pdf: [Link]  # replace with actual link to PDF or online version
-    code: null
+    pdf: https://as-proceeding.com/index.php/icsar/article/view/283/230  # replace with actual link to PDF or online version
     bibtex: null
     image: null
     notes: null

@@ -15,10 +15,8 @@ I completed my Master’s degree in Computer Science from the [National Universi
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- I am currently working on cross-lingual large language models to develop AI systems that can understand and operate across multiple languages and low-resource settings, and I am seeking PhD opportunities—feel free to contact me.
+
 
 {% include_relative _includes/publications.md %}
 

@@ -1,6 +1,6 @@
 ## Research Experience
 
-**Artificial Intelligence & Machine Learning Research Lab, Islamabad, Pakistan**  
+**[Artificial Intelligence & Machine Learning Research Lab, Islamabad, Pakistan](https://isb.nu.edu.pk/aim/students.html)**  
 **Research Assistant** | Jun 2020 – Jun 2021  
 - Designed multimodal deep learning frameworks integrating speech, text, and prosodic features for Urdu speech emotion recognition.  
 - Applied transfer learning using pretrained models (Wav2Vec, ResNet, transformers) to address low-resource language challenges through systematic rule extraction and pattern generalization.  

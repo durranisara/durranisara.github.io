@@ -11,7 +11,7 @@
 - Created and maintained large-scale annotated datasets for Urdu speech and text processing.  
 - Published two conference papers on multimodal speech emotion recognition and conversational AI systems.
 
-**Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan**  
+**[Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan](https://kics.edu.pk/web/)**  
 **Research Intern** | Jul 2018 – Aug 2018  
 - Worked as a Research Assistant on the project titled “Neural Attention Model for Abstractive Text Summarization Using Linguistic Feature Space.”
 - Designed and implemented a deep learning–based abstractive text summarization system using neural attention mechanisms and linguistic features.

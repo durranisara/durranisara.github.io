@@ -10,3 +10,11 @@
 - Formalized problem specifications and designed algorithmic solutions requiring rigorous logical reasoning and optimization.  
 - Created and maintained large-scale annotated datasets for Urdu speech and text processing.  
 - Published two conference papers on multimodal speech emotion recognition and conversational AI systems.
+
+**Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan**  
+**Research Intern** | Jul 2018 – Aug 2018  
+- Worked as a research intern at KICS, contributing to applied research activities in computer science and artificial intelligence.  
+- Assisted in problem-solving and research tasks related to data analysis and algorithm development under faculty supervision.  
+- Demonstrated strong professional conduct, teamwork, and analytical thinking while working in a research-oriented environment.  
+- Gained early research exposure that strengthened foundations in AI, machine learning, and academic research practices.
+

@@ -15,11 +15,11 @@ I completed my Master’s degree in Computer Science from the [National Universi
 
 ## Education
 
-**National University of Computer & Emerging Sciences (FAST-NUCES), Islamabad, Pakistan**  
+**[National University of Computer & Emerging Sciences (FAST-NUCES), Islamabad, Pakistan](https://www.nu.edu.pk/)**  
 **MS in Computer Science** | 2019 – 2021   
 - Coursework: Machine Learning, NLP, Speech Processing, Computer Vision  
 
-**University of Engineering and Technology (UET), Lahore, Pakistan**  
+**[University of Engineering and Technology (UET), Lahore, Pakistan](https://www.uet.edu.pk/home/)**  
 **BS in Computer Science** | 2015 – 2019  
 - Coursework: Artificial Intelligence, Machine Learning, Data Structures, NLP
 

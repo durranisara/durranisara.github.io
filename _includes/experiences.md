@@ -9,7 +9,6 @@
 - Investigated hybrid approaches combining neural networks with rule-based systems to enhance the interpretability and robustness of speech processing models.  
 - Formalized problem specifications and designed algorithmic solutions requiring rigorous logical reasoning and optimization.  
 - Created and maintained large-scale annotated datasets for Urdu speech and text processing.  
-- Published two conference papers on multimodal speech emotion recognition and conversational AI systems.
 
 **[Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan](https://kics.edu.pk/web/)**  
 **Research Intern** | Jul 2018 – Aug 2018  

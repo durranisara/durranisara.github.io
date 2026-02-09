@@ -13,6 +13,17 @@ I completed my Master’s degree in Computer Science from the [National Universi
 - **Computer Vision:** Vision language representation learning, CLIP-based models, multimodal fake news detection, and zero-shot learning.
 - **NLP:** Cross-lingual and low-resource language processing, sentiment and threat detection, domain adaptation and imbalanced learning, Transformer-based large language models, domain-adaptive fine-tuning, robustness, calibration, and responsible deployment.
 
+## Education
+
+**National University of Computer & Emerging Sciences (FAST-NUCES), Islamabad, Pakistan**  
+**MS in Computer Science** | 2019 – 2021   
+- Coursework: Machine Learning, NLP, Speech Processing, Computer Vision  
+
+**University of Engineering and Technology (UET), Lahore, Pakistan**  
+**BS in Computer Science** | 2015 – 2019  
+- Coursework: Artificial Intelligence, Machine Learning, Data Structures, NLP
+
+
 ## News
 
 - I am currently working on cross-lingual large language models to develop AI systems that can understand and operate across multiple languages and low-resource settings, and I am seeking PhD opportunities—feel free to contact me.

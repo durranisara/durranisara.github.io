@@ -10,7 +10,7 @@ I completed my Master’s degree in Computer Science from the [National Universi
 
 ## Research Interests
 
-- **Computer Vision:** Vision–language representation learning, CLIP-based models, multimodal fake news detection, and zero-shot learning.
+- **Computer Vision:** Vision language representation learning, CLIP-based models, multimodal fake news detection, and zero-shot learning.
 - **NLP:** Cross-lingual and low-resource language processing, sentiment and threat detection, domain adaptation and imbalanced learning, Transformer-based large language models, domain-adaptive fine-tuning, robustness, calibration, and responsible deployment.
 
 ## News
